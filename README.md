@@ -10,7 +10,9 @@ In this project, I'm implementing a language model designed to generate stories.
 
 ## Model 
 Model: nanoGPT (1.5Billion parameters)
+
 Training Loss:
+
 Validation Loss:
 
 ## Getting Started
