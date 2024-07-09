@@ -10,11 +10,11 @@ In this project, I'm implementing a language model designed to generate stories.
  TinyStories is a curated collection of short stories, providing a rich and diverse set of examples for the model to learn from. This dataset contains 2.1 Million short stories.
 
 ## Model 
-Model: nanoGPT (1.5Billion parameters)
+Model: nanoGPT (28.02 Million parameters)
 
-Training Loss:
+Training Loss: 2.03
 
-Validation Loss:
+Validation Loss: 1.92
 
 
 ## Output Snapshots 
