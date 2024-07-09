@@ -19,4 +19,4 @@ Validation Loss:
 
 ## Output Snapshots 
 
-![Alt text](relative/path/to/image.png)
+![Alt text](relative/path/to/story.png)
