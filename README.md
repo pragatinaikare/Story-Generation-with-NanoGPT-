@@ -16,15 +16,7 @@ Training Loss:
 
 Validation Loss:
 
-## Getting Started
-1. Clone the repository 
-
-2. Install dependencies 
-
-3. Download and prepare the dataset
-
-4. Train the model
-
-5. Generate songs using the trained model
 
 ## Output Snapshots 
+
+![Alt text](relative/path/to/image.png)
