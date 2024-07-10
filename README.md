@@ -11,9 +11,9 @@ This project involves developing a nanoGPT language model from scratch to genera
 ## Model 
 Model: nanoGPT (28.02 Million parameters)
 
-Training Loss: 2.03
+Training Loss: 2.0
 
-Validation Loss: 1.92
+Validation Loss: 1.88
 
 
 ## Output Snapshots 
