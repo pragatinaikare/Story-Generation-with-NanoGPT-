@@ -19,4 +19,4 @@ Validation Loss: 1.92
 
 ## Output Snapshots 
 
-![Alt text](Output.png)
+![Alt text](OutputSnap.png)
