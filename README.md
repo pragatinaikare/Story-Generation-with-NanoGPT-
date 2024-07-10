@@ -1,8 +1,7 @@
 ## Story Generation with NanoGPT
 
 
-In this project, I'm implementing a language model designed to generate stories. The model is trained on TinyStories sourced from Hugging Face, utilizing the nanoGPT architecture. This version of nanoGPT features 2 billion parameters, making it well-suited for story generation tasks.
-
+This project involves developing a nanoGPT language model from scratch to generate stories using the Tiny Stories dataset from Hugging Face. The nanoGPT architecture, a lightweight version inspired by the main GPT model, was used in this project and comprises 28 million parameters.
 
 ## Dataset
  Link - https://huggingface.co/datasets/roneneldan/TinyStories
